@@ -1,0 +1,133 @@
+
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+h1,h2,h3,h4,h5,h6,a,p{
+    font-family: "Oswald";
+}
+
+
+
+
+
+
+
+nav ul{
+
+    float: right;
+    margin-right: 20px;
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+
+
+} 
+
+nav ul li a{
+
+    color:white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+
+}
+
+
+a.active,a:hover{
+    background: rgb(212, 18, 18);
+    transition: .5s;
+    
+}
+
+
+
+.page-holder {
+    min-height: 100vh;
+    background-attachment: fixed, scroll;
+    background-repeat: no-repeat, repeat-y;
+  
+    
+  }
+  
+  .bg-cover {
+    background-size: cover !important;
+
+  }
+
+
+  .im{
+
+    width: 100px; height:100px;
+   
+    
+
+
+  }
+
+
+
+  .d{
+    margin-left: 40%;
+
+  }
+
+  .h{
+ 
+    text-align: center;
+
+  }
+
+
+  .vr{
+
+  
+   
+        margin-left:0%;
+        
+        
+        width: 100px; height:100px;
+            background-color: aqua;
+        
+        
+    
+
+  }
+
+
+  .te{
+    margin-left:3%;
+        
+
+  }
+
+
+  .i{
+
+    max-width: 100%;
+  }
+  .gallery{
+
+    padding: 80px 0;
+  }
+
+  .gallery img{
+
+    background-color: #ffffff;
+    padding: 15px;
+    width: 100%;
+    box-shadow: 0 0 15px rgb(0, 0,0, 0.3);
+    cursor: pointer;
+  }
+
+
+  
+  .body{
+background-color:  	rgb(211,211,211);
+
+
+  }
+
